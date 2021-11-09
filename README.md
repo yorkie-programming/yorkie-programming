@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yorkie-programming
-- 👀 I’m interested in sports / wine / gadgets and others
+- 👋 Hi, I’m @yorkie-programming . I'm a business consultant in Japan.
+- 👀 I’m interested in healthcare and preventive healthcare.
 - 🌱 I’m currently learning python for data science. Still a beginner.
 - 💞️ I’m looking to collaborate on healthcare related data science.
 - 📫 How to reach me https://twitter.com/yorkie_hobby
